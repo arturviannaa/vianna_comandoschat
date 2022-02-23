@@ -1,3 +1,9 @@
+--[[
+    SCRIPT FEITO POR vianna#8189
+    FAVOR DEIXAR OS CRÉDITOS PARA REPASSAR O SCRIPT
+    AJUDE A COMUNIDADE
+]]--
+
 RegisterCommand("ajuda", function()
     msg("Precisa de ajuda? Chame algum staff pelo comando: /call adm")
 end, false)
