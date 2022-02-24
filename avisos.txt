@@ -1,0 +1,4 @@
+- Script free desenvolvido por: vianna#8189 (https://discord.gg/jbahjk6UsD).
+- Favor deixar os créditos ao repassar este script.
+- Você pode encontrar esse script atualizado com novos comandos e sem modificações de terceiros no meu github: (https://github.com/arturviannaa).
+- Caso queira desativar algum dos comandos, apenas comente o código do mesmo, para que assim possa voltar atrás depois.
